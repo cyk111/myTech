@@ -5,3 +5,4 @@
 [[springboot]]
 [[mybatis]]
 [[netty]]
+[[kafka]]
