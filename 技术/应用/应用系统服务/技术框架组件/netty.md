@@ -7,9 +7,14 @@
 	- Java 网络编程
 	- Java设计模式(观察者、命令模式、责任链模式) 常用数据结构(如 链表)
 - java 三种网络编程模型 IO模式
-	- BIO  blocking i/o 阻塞io                - 食堂排队打饭
-	- NIO non-blocking i/o 非阻塞 i/o  -  点单 等待被叫
-	- AIO asyn i/o  异步i/o   - 外卖点单 包厢模式
+	- BIO  blocking i/o 阻塞io 
+		- [[BIO相关]]                
+		- 食堂排队打饭
+	- NIO non-blocking i/o 非阻塞 i/o 
+		- [[NIO相关]]   
+		-  点单 等待被叫
+	- AIO asyn i/o  异步i/o                      
+		- 外卖点单 包厢模式
 
 >  阻塞 非阻塞
 >  同步 异步
@@ -45,3 +50,6 @@
 > 如何在netty中使用Reactor模式
 > 解析netty对Reactor模式支持
 
+#### netty 书籍
+- 《netty in Action》
+- 《netty 权威指南》
