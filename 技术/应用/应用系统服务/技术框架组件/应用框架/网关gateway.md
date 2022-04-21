@@ -107,7 +107,7 @@
 >  三要素：高性能、高可用、高扩展
 ##### 高性能
 - 高性能定义及方法 [[性能总结]]
-- Java netty 框架、spring Reactor 框架
+- Java [[netty知识汇总|netty 框架]]、spring Reactor 框架
 
 ##### 高可用
 - 高可用的定义及方法 [[弹力设计总结]]
