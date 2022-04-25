@@ -1,11 +1,8 @@
 ### netty知识汇总
 
 - [[netty前置概念]]
-- [[netty基本组件]]
-- [[NioEventLoop]]
-- [[pipeline]]
-- [[ByteBuf]]
-- [[netty解码]]
-- [[netty编码及wiriteAndFlush()]]
-- [[netty设计模式]]
-- [[netty性能及调优]]
+- [[netty核心组件]]
+- [[netty编码及解码]]
+- [[netty拆包粘包]]
+- [[netty内存管理]]
+- [[netty数据结构设计模式及优化点]]
