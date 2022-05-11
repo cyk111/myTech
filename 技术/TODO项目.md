@@ -3,7 +3,7 @@
 - [ ] 搭建github blog
 - [ ] [CS体系学习](https://csdiy.wiki/)
 - [ ] 精读《深入理解计算机系统》（CSAPP）
-
+- [ ] [《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
 
 ##### 参考资料
