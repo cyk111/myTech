@@ -171,3 +171,7 @@
 #### 7.参考资料
 - [网关设计思路](https://www.cnblogs.com/Courage129/p/14446586.html)
 - [# 有赞应用层网关剖析](https://tech.youzan.com/gateway/)
+
+- 网关建设参考方向
+- [API IPaaS](http://www.restcloud.cn/restcloud/mycms/index.html)
+- [RestCloud](https://cloud.tencent.com/developer/article/1877375)
