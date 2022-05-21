@@ -28,3 +28,7 @@
 		- 与RPC 区别，SOA更关注如何去连接服务，而不是去特定某个实现细节，WSDL定义网络服务的必要内容
 	- 表述性状态转移 REST
 		- 以资源的形式提供服务，可以通过WSDL来描述SOAP消息内容，通过HTTP限定动作接口；或者完全在SOAP中对动作进行抽象
+
+
+-  [Http方式发送Soap报文调用WebService](https://www.1024sou.com/article/198556.html)
+-  [cxf动态构建webservice](https://sillybilly-share.top/cxf%E5%8A%A8%E6%80%81%E6%9E%84%E5%BB%BAwebservice.html)]
