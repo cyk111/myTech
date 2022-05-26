@@ -31,4 +31,11 @@
 
 
 -  [Http方式发送Soap报文调用WebService](https://www.1024sou.com/article/198556.html)
--  [cxf动态构建webservice](https://sillybilly-share.top/cxf%E5%8A%A8%E6%80%81%E6%9E%84%E5%BB%BAwebservice.html)]
+-  [cxf动态构建webservice](https://sillybilly-share.top/cxf%E5%8A%A8%E6%80%81%E6%9E%84%E5%BB%BAwebservice.html)
+
+- [# CXF发布webService](https://lanjingling.github.io/2015/10/16/cxf-webservice-1/)
+- [# 通过https方式访问webService](https://blog.csdn.net/yingjia11/article/details/116016302)
+- [# 了解wsdl文件](https://blog.csdn.net/weixin_43790613/article/details/110344728)
+- [# DOM4J使用过程中的一个细节问题](https://cloud.tencent.com/developer/article/1387762)
+- [# 根据WebService地址展示方法列表、入参和返回值](https://blog.csdn.net/a243293719/article/details/79149119)
+- [# webService学习（八）CXF生成WSDL]()
