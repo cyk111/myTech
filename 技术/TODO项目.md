@@ -5,6 +5,7 @@
 - [ ] 精读《深入理解计算机系统》（CSAPP）
 - [ ] [《分布式系统模式》（Patterns of Distributed Systems）](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - [ ] [MIT 分布式系统](https://www.bilibili.com/video/BV1R7411t71W?p=1) 
+- [ ] 使用Vim 编辑器  vimium 浏览器插件 neovim
 
 
 ##### 参考资料
