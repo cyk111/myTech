@@ -8,7 +8,16 @@
 - [ ] 使用Vim 编辑器  vimium 浏览器插件 neovim
 - [ ] k8s+istio 代替spring cloud
 - [ ]  [[system-design]]
-
+- [ ] [microservices博客](https://microservices.io/patterns/index.html)
+- [ ] 待阅读书籍
+	- [ ] Designing Data-insensitive Applications 
+	- [ ] System Design Interview
+	- [ ] System Analysis and Design
+	- [ ] Morden Systems Analysis and Design
+	- [ ]  System Analysis And Design 
+	- [ ] Clean Architecture
+	- [ ] Head first Design Patterns
+	- [ ] [链接](https://javarevisited.blogspot.com/2022/06/best-system-design-and-analysis-books.html#axzz7X2Y8sNW3)
 
 ##### 参考资料
 - [butterfly 主题](https://github.com/jerryc127/hexo-theme-butterfly)
